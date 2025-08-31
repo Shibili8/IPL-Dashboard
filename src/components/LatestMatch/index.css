@@ -1,0 +1,74 @@
+.latest-match-container {
+  width: 100%;
+  display: flex;
+  padding: 20px;
+  justify-content: space-between;
+  margin-bottom: 25px;
+  height: 44vh;
+  align-items: center;
+  background-color: #0f172a;
+}
+.container-1 {
+  width: 30%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  text-align: left;
+}
+.team-name {
+  font-size: 25px;
+  font-family: 'Bree Serif';
+  color: #ffffff;
+  margin: 0px;
+  margin-bottom: 5px;
+}
+.date {
+  font-size: 20px;
+  color: #ffffff;
+  margin-top: 0px;
+  margin-bottom: 15px;
+}
+.venue {
+  font-size: 18px;
+  color: #ffffff;
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
+.result {
+  font-size: 18px;
+  color: #ffffff;
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
+.team-logo {
+  height: 400px;
+  width: 400px;
+}
+.container-2 {
+  width: 30%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+}
+.sub-headings {
+  color: #ffffff;
+  font-size: 20px;
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
+.sub-headings-reply {
+  color: #ffffff;
+  font-size: 15px;
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
+.man-of-the-match {
+  font-size: 22px;
+}
+.man-of-the-match-reply {
+  font-size: 19px;
+}

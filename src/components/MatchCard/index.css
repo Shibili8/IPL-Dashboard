@@ -1,0 +1,38 @@
+.match-card {
+  width: 260px;
+  height: 440px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  background-color: #0f172a;
+  border-radius: 10px;
+  margin-bottom: 25px;
+  margin-left: 0px;
+}
+.team-logo {
+  width: 130px;
+  height: 130px;
+}
+.team-name {
+  font-size: 25px;
+  color: #ffffff;
+  font-family: 'Bree Serif';
+}
+.result {
+  font-size: 18px;
+  color: #ffffff;
+  margin-bottom: 15px;
+}
+.green-text {
+  font-size: 20px;
+  color: #18ed66;
+  font-weight: 500;
+}
+.red-text {
+  font-size: 20px;
+  color: #e31a1a;
+  font-weight: 500;
+}

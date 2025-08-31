@@ -1,0 +1,29 @@
+.link-item {
+  height: 140px;
+  width: 38%;
+  margin-right: 25px;
+  margin-bottom: 25px;
+  background-color: transparent;
+  border: 1px solid #475569;
+  border-radius: 8px;
+  text-decoration: none;
+}
+.team-container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 10px;
+}
+.team-logo {
+  height: 90px;
+  width: 90px;
+  margin-right: 10px;
+}
+.team-name {
+  color: #ffffff;
+  font-size: 22px;
+  text-align: center;
+  font-family: 'Bree Serif';
+}
